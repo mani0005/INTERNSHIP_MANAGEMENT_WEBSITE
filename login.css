@@ -1,0 +1,89 @@
+.back{
+    background-color: #c4c4c4;
+    
+    }
+    
+    
+    
+    .pass{
+        display: block;
+        width: 60%;
+        height:50px ;
+        font-weight: 500;
+        font-size: 18px;
+        margin-left: 20%;
+        margin-bottom: 9px;
+        align-self: center;
+    }
+    
+    .container1{
+        position: absolute;
+        align-items: center;
+    left: 32%;
+    right: 32%;
+    top: 15%;
+    bottom:12%;
+    
+    
+    background:whitesmoke;
+    border: 1px solid #E0E0E0;
+    box-shadow: 0px 82px 40px -14px rgba(100, 100, 100, 0.0784314);
+    border-radius: 49px;
+    
+    }
+    
+    .header{
+    
+        display:block;
+        align-content: center;
+        margin-left: 21%;
+        margin-bottom: 4%;
+        
+    }
+    
+    .mail{
+        display: block;
+        width: 60%;
+        height:50px ;
+        font-weight: 500;
+        font-size: 18px;
+        margin-left: 20%;
+        margin-bottom: 10px;
+        
+        align-self: center;
+    
+    
+    }
+    .check{
+        margin-left: 20%;
+        size:15px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    
+    .sign{
+    
+        display: block;
+        width: 60%;
+        height:50px ;
+        font-weight: 500;
+        font-size: 20px;
+        margin-left: 20%;
+        margin-bottom: 30px;
+        margin-top: 15px;
+        
+        align-self: center;
+        background-color: black;
+        color: aliceblue;
+    
+        
+    }
+    .create{
+        margin-left: 20%;
+        margin-top: 30px;
+    
+    }
+    
+    .logo{
+      width: 275px;
+    }
